@@ -1,0 +1,12 @@
+[submodule "src/sbase"]
+	path = src/sbase
+	url = https://git.suckless.org/sbase
+[submodule "src/ubase"]
+	path = src/ubase
+	url = https://git.suckless.org/ubase
+[submodule "src/busybox"]
+	path = src/busybox
+	url = https://git.busybox.net/busybox
+[submodule "src/toybox"]
+	path = src/toybox
+	url = https://github.com/landley/toybox
